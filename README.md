@@ -1,7 +1,7 @@
 # Light-Dark-mode-Toggle
 
 - A responsive page with Light mode and Dark mode by toggling the Button.
-- Using Onlu HTML5, CSS3 and Vanila Javascript.
+- Using Only HTML5, CSS3 and Vanilla Javascript.
 
 Screenshots Below 👇
 
